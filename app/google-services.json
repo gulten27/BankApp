@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "534460256976",
+    "project_id": "bankapp-60809",
+    "storage_bucket": "bankapp-60809.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534460256976:android:82e265c0b92285eee1c4d5",
+        "android_client_info": {
+          "package_name": "com.gultendogan.bankapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534460256976-qfube7d4mr6co10ftjkmkmqkok157s1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA556DmBLbcqPo4uhh3TFMYKFXo2I8usIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534460256976-qfube7d4mr6co10ftjkmkmqkok157s1v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
